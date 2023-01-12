@@ -18,5 +18,6 @@ actions:
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
   - label: "Download"
     icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+    url: /assets/epk/Epk-v2.pdf
+    # url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
 ---

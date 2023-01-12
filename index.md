@@ -16,8 +16,7 @@ actions:
   - label: "Book Now!!!"
     icon: github
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
+  - label: "Download EPK"
     icon: download
-    url: /assets/epk/Epk-v2.pdf
-    # url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+    url: "https://github.com/euphoriaonebooking/euphoria.one.web/tree/main/docs/Epk-v2.pdf"
 ---

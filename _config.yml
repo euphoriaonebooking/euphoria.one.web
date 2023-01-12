@@ -16,16 +16,16 @@
 lang: en-US
 title: Euphoria One
 email: euphoriaonebooking@gmail.com
-description: Hottest trance dj in town
+description: Your ultimate trance experience
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: Euphoria One
   twitter:
   picture:
 twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+github_username: euphoriaonebooking
+logo: /assets/images/euphoria-one-short-3000.png # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia

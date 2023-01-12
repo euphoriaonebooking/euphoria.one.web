@@ -21,5 +21,6 @@ actions:
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
   - label: "EPK"
     icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+    url: /assets/images/epk/Epk-v2.pdf
+    # url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
 ---

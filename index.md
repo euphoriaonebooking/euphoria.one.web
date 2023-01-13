@@ -5,18 +5,14 @@ alt_title: "Euhporia One"
 sub_title: "Your ultimate trance experience"
 image: /assets/images/EO-Complete-Logo-4096-2048.png
 introduction: |
-  Euphoria One is bring you the ultimate trance experience!!! While some may consider it the style of yesteryear trance is still going strong.
+  Euphoria One is bring you the ultimate trance experience!!! While some may consider it the style of yesteryear trance is still going strong. He takes inspiration from many of the classics such as early Tiesto, Armin Van Buuren, Rank 1, Christopher Lawrence all while seamlessly bringing in influences from the like of Andrew Rayel, Dj Phalanx, Auralight, and Vini Vici. 
 
-  - Clean responsive design with six customizable skins
-  - Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-  - About page layout
-  - Disqus Comments and Google Analytics support
-  - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+  With his almost every week stream Midweek Madness, Euphoria One dominates the internet with everything from Anjuna themed progressive trance to full on 140 bpm hard trance and everything in between.
 actions:
   - label: "Book Now!!!"
-    icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+    icon: email
+    email: euphoriaonebooking@gmail.com
   - label: "Download EPK"
     icon: download
-    url: "https://github.com/euphoriaonebooking/euphoria.one.web/tree/main/docs/Epk-v2.pdf"
+    url: "https://github.com/euphoriaonebooking/euphoria.one.web/raw/main/epk/Epk-v2.pdf"
 ---

@@ -51,5 +51,6 @@ google_fonts:
 navigation_pages:
   - about.md
   - shows.md
-  - posts.md
-  - tags.md
+  - socials.md
+  # - posts.md
+  # - tags.md
